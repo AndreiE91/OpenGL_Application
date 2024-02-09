@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\Andrei Eminovici\Desktop\GP\FarmAdventure\FarmAdventure\main.cpp(265,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Andrei Eminovici\Desktop\GP\FarmAdventure\FarmAdventure\main.cpp(266,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Andrei Eminovici\Desktop\GP\FarmAdventure\FarmAdventure\main.cpp(272,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Andrei Eminovici\Desktop\GP\FarmAdventure\FarmAdventure\main.cpp(273,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Andrei Eminovici\Desktop\GP\FarmAdventure\FarmAdventure\main.cpp(274,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Andrei Eminovici\Desktop\GP\FarmAdventure\FarmAdventure\main.cpp(275,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  FarmAdventure.vcxproj -> C:\Users\Andrei Eminovici\Desktop\GP\FarmAdventure\x64\Debug\FarmAdventure.exe

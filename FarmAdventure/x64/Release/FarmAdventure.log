@@ -1,0 +1,13 @@
+﻿  main.cpp
+C:\Users\Andrei Eminovici\Desktop\GP\FarmAdventure\FarmAdventure\main.cpp(265,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Andrei Eminovici\Desktop\GP\FarmAdventure\FarmAdventure\main.cpp(266,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Andrei Eminovici\Desktop\GP\FarmAdventure\FarmAdventure\main.cpp(272,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Andrei Eminovici\Desktop\GP\FarmAdventure\FarmAdventure\main.cpp(273,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Andrei Eminovici\Desktop\GP\FarmAdventure\FarmAdventure\main.cpp(274,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Andrei Eminovici\Desktop\GP\FarmAdventure\FarmAdventure\main.cpp(275,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  3 of 2014 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    15 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  FarmAdventure.vcxproj -> C:\Users\Andrei Eminovici\Desktop\GP\FarmAdventure\x64\Release\FarmAdventure.exe
