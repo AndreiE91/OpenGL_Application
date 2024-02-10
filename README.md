@@ -53,7 +53,7 @@ The virtual scene includes:
 - **M**: Reveal shadow computation map.
 - **B**: Trigger Bezier curve camera movement.
 - **Mouse**: Look around the scene.
-- 
+
 ![GIF fog](presentation/gif_fog.gif)
 
 ![GIF lightdir](presentation/gif_lightdir.gif)
