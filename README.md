@@ -60,12 +60,14 @@ The virtual scene includes:
 
 ## Cloning
 
-To get a local copy of these projects up and running on your machine, simply clone this repository using Git:
+To get a local copy of this project up and running on your machine, simply clone this repository using Git:
 
 ```sh
-git clone https://github.com/AndreiE91/LinuxOS_Assignments.git
-cd Linux_OS_Assignments
+git clone https://github.com/AndreiE91/OpenGL_Application.git
+cd OpenGL_Application
 ```
+
+Open and build the project in Visual Studio afterwards.
 
 ![Screenshot 4](presentation/screenshot4.png)
 
