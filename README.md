@@ -58,6 +58,15 @@ The virtual scene includes:
 
 ![GIF lightdir](presentation/gif_lightdir.gif)
 
+## Cloning
+
+To get a local copy of these projects up and running on your machine, simply clone this repository using Git:
+
+```sh
+git clone https://github.com/AndreiE91/LinuxOS_Assignments.git
+cd Linux_OS_Assignments
+```
+
 ![Screenshot 4](presentation/screenshot4.png)
 
 
